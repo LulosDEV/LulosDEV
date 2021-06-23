@@ -30,4 +30,4 @@ Aplicação web de controle de finanças desenvolvida durante a MaratonaDiscover
 O deploy foi realizado com o *github-pages* e está disponível [aqui](https://lucasbecker.github.io/dev-finances).
 
 ## License
-[MIT License](./LICENSE) | [Lucas Becker](http://lucasbecker.github.io/)
+[MIT License](./LICENSE) | [Luís Carlos C.](http://lucasbecker.github.io/)
