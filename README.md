@@ -27,7 +27,7 @@ Aplicação web de controle de finanças desenvolvida durante a MaratonaDiscover
 - [ ] Refatorar e simplificar
 
 ## Deploy
-O deploy foi realizado com o *github-pages* e está disponível [aqui](https://lucasbecker.github.io/dev-finances).
+O deploy foi realizado com o *github-pages* e está disponível [aqui](https://lulosdev.github.io/moneydash.github.io/).
 
 ## License
-[MIT License](./LICENSE) | [Luís Carlos C.](http://lucasbecker.github.io/)
+[MIT License](./LICENSE) | [Luís Carlos C.](http://LulosDEV.github.io/)
